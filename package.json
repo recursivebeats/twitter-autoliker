@@ -1,0 +1,11 @@
+{
+  "name": "twitter-autoliker",
+  "version": "1.0.0",
+  "description": "A simple bot to like the tweets of a given set of twitter users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
